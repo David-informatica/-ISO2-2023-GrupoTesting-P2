@@ -8,6 +8,10 @@ Realizado por DAVID CARROBLES ILLÁN y RUBEN ROMERO FERNANDEZ MONGE
 ## 2. Gestión de Pruebas
    
 Realizado por IVÁN JIMÉNEZ QUINTANA y JOSÉ JAVIER BOGADO CANDIA
+![image](https://github.com/David-informatica/ISO2-2023-Grupo-Testing-P2/assets/114737693/b3dc7eff-1bf0-4a75-ad96-c5875aee46d8)
+
+![image](https://github.com/David-informatica/ISO2-2023-Grupo-Testing-P2/assets/114737693/9fefda52-388a-4033-bd15-03431835afa5)
+
 
 ## 3. Testing con JUnit
    
