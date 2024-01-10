@@ -15,7 +15,7 @@ Realizado por IVÁN JIMÉNEZ QUINTANA y JOSÉ JAVIER BOGADO CANDIA
 
 ## 3. Testing con JUnit
    
-Realizado por JESÚS DÍAZ-TOLEDO CRIADO y GEORGI ANGELOV CHERVENYASHKI
+Realizado por JESÚS DÍAZ-TOLEDO CRIADO y GEORGI ANGELOV
 
 ![image](https://github.com/David-informatica/ISO2-2023-Grupo-Testing-P2/assets/39058929/70b30183-1be1-4769-b270-9ac283bb4418)
 
